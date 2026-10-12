@@ -1,0 +1,16 @@
+Gates Computer Science Building · Stanford University
+
+Primary architectural / photographic references inspected:
+https://www.ramsa.com/expertise/project/gates-computer-science-building
+  92014-ESTO-96A16.104.psd__0.jpg: south and southeast exterior, including rounded corner.
+  92014-ESTO-96A16.107.jpg: close view of split-faced arch, lettering, green window frames.
+  92014-ESTO-96A16.138.jpg: interior, context only.
+https://www.fca-arch.com/education/gates-computer-building
+  Gallery 1.jpg (local fca-1.jpg): low viewpoint of rounded corner, steel windows and loggia.
+https://www.cs.stanford.edu/contact-us
+  Institution and address: Gates Computer Science Building, 353 Jane Stanford Way.
+
+Downloaded pictures remain reference-only and are not used as textures.
+Photo ownership and copyright remain with source photographers and publishers.
+Model is a photo-informed exterior reconstruction: dimensions, rear elevation,
+roof well, and landscaped surroundings are estimated, not a surveyed replica.

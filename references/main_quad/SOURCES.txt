@@ -1,0 +1,15 @@
+STANFORD MAIN QUAD — SOURCES AND ACCURACY
+Photo-informed exterior reconstruction, 7 October 2026. Same material, daylight and landscape presentation family as Hoover Tower, Gates and Huang.
+PRIMARY PLAN REFERENCES
+Stanford Transportation Main Quad bike-rack map:
+https://transportation.stanford.edu/getting-stanford/bike/engineering/bike-routes-and-maps
+Stanford Outer Quad Tree Map, Sairus Patel, draft30Jan2026; Stanford Inner Quad Tree Map17Oct2025:
+https://trees.stanford.edu/treewalks/treemaps.htm
+The maps establish12inner teaching ranges, outer building numbers and massings, secondary gardens and8circular planted islands. Reference PDFs and maps were consulted during modeling; these research-only downloads are not redistributed.
+PRIMARY PHOTO AND HISTORICAL REFERENCES
+https://osep.stanford.edu/policies/policy-regarding-use-main-quadrangle-memorial-court
+https://quake06.stanford.edu/5-evolution-engineering-methods
+https://community.stanford.edu/regional-engagement/supporting-community
+https://visit.stanford.edu/explore-campus
+The historic586×246ft opencourt dimension, reported in A Visit to Stanford University (1905), gives a nominal metre scale. Individual building dimensions, bay counts, roof profiles, window placement and ornament are inferred, not measured or survey-grade. The model's axes follow the formal campus axes; front entrance is−Y and church is+Y, not geographic north.
+Inner court is brick paving with eight raised botanical islands. MemorialCourt is a separate lawn-and-X-path garden. Open arcades, timber canopies, columns, capitals, voussoirs, windows and rolled roof tiles are geometric. Simplified secondary building forms retain plan topology and do not include room interiors. Garden species and exact planting positions are illustrative. The bronze figures are abstract placeholders for the Burghers of Calais, not detailed sculpture replicas. MemorialChurch has its own embedded source note from the module builder. All photograph downloads remain reference-only, except any explicitly recorded church mosaic texture.

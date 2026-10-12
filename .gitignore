@@ -1,0 +1,12 @@
+*.blend
+*.blend1
+*.blend2
+__pycache__/
+*.py[cod]
+.DS_Store
+.omx/
+.verification/
+*.verification.json
+scene_verification.json
+
+backups/

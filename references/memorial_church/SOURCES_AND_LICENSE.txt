@@ -1,0 +1,49 @@
+STANFORD MEMORIAL CHURCH - MODEL NOTES AND ATTRIBUTION
+
+Created as an editable photo-based exterior model for the Stanford Main Quad scene.
+Current post-1906 building: the old clock tower/80ft spire is deliberately absent.
+The modern facade has a large arched stained-glass window and six slender side
+windows; the original circular rose window was lost in 1906.
+
+DIMENSIONS
+Stanford ORSL describes the cruciform plan as 190ft long and 150ft wide, and the
+facade mosaic as 84ft wide and 30ft high. Those are used as approximate scale
+anchors. Other dimensions, roof levels, masonry and small ornament are estimates
+from photographs, not surveyed architectural documentation. Local front faces -Y.
+Approximate length58m; transept width46m; tallest crest/skylight31.3m.
+
+ARCHITECTURAL SOURCES
+Stanford Office for Religious & Spiritual Life, Memorial Church History:
+https://orsl.stanford.edu/memorial-church-history
+Stanford Office for Religious & Spiritual Life, Memorial Church Layout:
+https://orsl.stanford.edu/memorial-church-layout
+Stanford University and the 1906 Earthquake, Repair of Monuments:
+https://quake06.stanford.edu/4-repair-monuments
+Stanford faculty Robert Siegel, aerial/current roof photographs (reference only,
+not embedded or redistributed as textures):
+https://web.stanford.edu/~siegelr/stanford/memchu.html
+
+PACKED PHOTOGRAPHIC MOSAIC / FACADE DECORATION TEXTURE
+King of Hearts, Stanford Memorial Church May 2011 002.jpg, photographed2011-05-07.
+https://commons.wikimedia.org/wiki/File:Stanford_Memorial_Church_May_2011_002.jpg
+License: Creative Commons Attribution-ShareAlike3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/
+The original photograph is packed, unaltered, into the blend file. UV coordinates
+select the mosaic fields, stained-glass artwork and shallow carved-face detail.
+The UV-mapped artwork adaptation is offered under the same CC BY-SA3.0 license.
+No endorsement by the photographer or Stanford is implied.
+The portrayed historic Salviati artwork dates to the1903/1917 installations.
+
+ADDITIONAL PHOTOGRAPHIC REFERENCES (NOT USED AS TEXTURES)
+GualdimG, Exterior of Stanford Memorial Church, Stanford, California02.jpg,
+2025-04-08, CC BY-SA4.0:
+https://commons.wikimedia.org/wiki/File:Exterior_of_Stanford_Memorial_Church,_Stanford,_California_02.jpg
+Ed Bierman, Exterior mosaic2.jpg,2008-12-25, CC BY-SA2.0:
+https://commons.wikimedia.org/wiki/File:Exterior_mosaic2.jpg
+
+GEOMETRY
+Real three-dimensional portal depth, stepped moldings, bundled jamb shafts,
+modern arched window group, gable crest, curved turrets, nave clerestory, rounded
+transept and chancel apses, low crossing roof and small glazed pyramidal skylight.
+Individual barrel tiles are batched for performance. Carved details are a mixture
+of shallow geometric detail and licensed photograph mapping. Interior not modeled.
